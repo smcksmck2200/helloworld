@@ -1,4 +1,3 @@
 # ignore ALL files and or directories
 /node modules
-Dockerfile
 **/helloworld
