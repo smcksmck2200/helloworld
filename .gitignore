@@ -1,3 +1,6 @@
 # ignore ALL files and or directories
-/node modules
+node_modules/
 **/helloworld
+.vscode/
+.yml/
+README.md
