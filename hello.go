@@ -18,6 +18,6 @@ func main() {
 	})
 	r.Use(static.Serve("/", static.LocalFile("./views", true)))
 
-	r.Run(":3000")
+	r.Run()
 
 }

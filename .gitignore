@@ -1,6 +1,6 @@
-# ignore ALL files and or directories
-node_modules/
+# ignore files and or directories
 **/helloworld
-.vscode/
-.yml/
-README.md
+Dockerfile
+*.yml
+*.md
+*.code-workspace
